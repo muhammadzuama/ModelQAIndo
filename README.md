@@ -115,4 +115,3 @@ tokenizer = AutoTokenizer.from_pretrained(model_path)
 ## 🧑‍💻 Kontributor
 
 * [Muhammad Zuama Al Amin](https://github.com/muhammadzuama) – Pengembang utama
-* Dataset & Penyesuaian: `df_train.json` dan `df_val.json` (kategori SPAN)
